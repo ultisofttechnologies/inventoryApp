@@ -1,0 +1,39 @@
+.chat-class{
+list-style-type: none;
+margin-left: 0;
+padding: 0px;
+}
+.chat-class img{
+	border-radius: 50%;
+	float: left;
+}
+#text-main{
+	background-color: #ffffff;
+	color: #00BCD4;
+	border-radius: 5px 5px 15px 10px;
+	margin-bottom: 20px;
+	margin-left: 45px;
+}
+
+.chat-container-right img{
+	border-radius: 50%;
+	float: right;
+}
+#text-main-right{
+	background-color: #ffffff;
+	color: #00BCD4;
+	border-radius: 5px 5px;
+	margin-bottom: 20px;
+	margin-right: 45px;
+}
+.chatbox, .todobox{
+	overflow-y: scroll;
+	height: 300px;
+}
+.checkoutsalesbox{
+	height: 300px;
+	background-color: #E91E63;
+}
+.details-supplier{
+	font-size: 30px;
+}
